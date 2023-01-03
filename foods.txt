@@ -1,0 +1,13 @@
+#fruits 
+
+apples
+oranges
+
+bananas
+
+#veggies 
+
+carrots
+radishes
+
+peppers
